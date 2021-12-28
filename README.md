@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nelgit007
-- 👀 I’m interested in Devops
+- 👀 I’m interested in Devops and Social Media Marketing
 - 🌱 I’m currently learning Linux RHEL, Python e.t.c
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
