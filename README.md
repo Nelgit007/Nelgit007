@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Nelgit007
-- 👀 I’m interested in Software Engineering and DevOps
-- 🌱 I’m currently learning Linux RHEL, Python e.t.c
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Nelson Osagie
+- 👀 I have great interest in Software Engineering and DevOps
+- 🌱 I’m currently learning Software Engineering with ALX. I am quite familiar with Linux CLI and Agile Methodology.
+- 💞️ I’m looking to collaborate on Open Source Projetcs...
 - 📫 How to reach me ...
 
 <!---
