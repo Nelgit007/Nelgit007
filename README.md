@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nelson Osagie
 - 👀 I have great interest in Software Engineering and DevOps
-- 🌱 I’m currently learning Software Engineering with ALX. I am quite familiar with Linux/Windows Systems on CLI, and also with Agile Methodology.
+- 🌱 I’m currently learning Software Engineering with ALX. I am quite familiar with Linux Systems on CLI, and also with Agile Methodology.
 - 💞️ I’m looking to collaborate on Open Source Projects...
 - 📫 How to reach me ...
 
