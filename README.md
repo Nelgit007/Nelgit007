@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Nelson Osagie
-- 👀 I have great interest in Software Engineering and DevOps
-- 🌱 I’m currently learning Software Engineering with ALX. I am quite familiar with Linux Systems on CLI, and also with Agile Methodology.
+- 👀 I have great interest in Software Engineering, and I'm a DevOps enthusiast.
+- 🌱 I’m currently learning Software Engineering @holbertonschool. I am quite familiar with Linux Systems on CLI, and also with Agile Methodology.
 - 💞️ I’m looking to collaborate on Open Source Projects...
-- 📫 How to reach me ...
+- 📫 You can reach me @ osagienelson24@gmail.com
 
 <!---
 Nelgit007/Nelgit007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
