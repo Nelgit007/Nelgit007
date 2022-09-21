@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nelson Osagie
-- 👀 A Software Engineer [Back-End Developmet], and a DevOps enthusiast.
-- 🌱 I’m currently enrolled in Software Engineering @holbertonschool. I am quite familiar with Linux Systems on CLI, and also with Agile Methodology.
-- 💞️ I’m looking to collaborate on Open Source Projects...
+- 👀 A Software Engineer [Back-End Developmet], trained DevOps/Cloud Engineer.
+- 🌱 I’m currently enrolled in Software Engineering @holbertonschool. I am well familiar with Git,Linux Systems on CLI, and also with Agile Methodology.
+- 💞️ I’m looking to building be-spoke technolgy with a dynalic IT company as well as collaborate on Open Source Projects...
 - 📫 You can reach me @ osagienelson24@gmail.com
 
 <!---
