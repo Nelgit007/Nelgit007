@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Nelson Osagie - A Cloud/DevOps Engineer
 - 🌱 I am well familiar with AWS, Python programming, Git, Maven, containers, Container orchestration, Linux Systems, IaC, and also with Agile Methodology.
 - 💞️ I’m looking to building be-spoke technolgy solutions with a dynalic IT company and collaborate on Open Source Projects...
-- 📫 You can reach me Email @osagienelson24@gmail.com Twitter @https://twitter.com/__Ikay__
+- 📫 You can reach me Email @osagienelson24@gmail.com
