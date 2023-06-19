@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nelson Osagie - A Cloud/DevOps Engineer
-- 🌱 I am well familiar with AWS, Python programming, Git, Maven, containers, Container orchestration, Linux Systems, IaC, and also with Agile Methodology.
-- 💞️ I’m looking to building be-spoke technolgy solutions with a dynalic IT company and collaborate on Open Source Projects...
+- 👋 Hi, I’m @Nelson Osagie - A Cybersecurity and IT Support Professional, with experience in CloudSecOps.
+- 🌱 I am well familiar with the current Threat Intelligence landscape, SIEM Systems, Incidence Response, Cloud Security Best Practices and Implementations on AWS and Azure Clouds, Python programming for automation, Git, containers, Container Security and orchestration, Linux and Windows Systems, and IaC.
+- 💞️ I’m keen at protecting digital assets and inculcate security best practices into DevOps, as well as full implementation of the DevOps Methodology for seemless release.
 - 📫 You can reach me Email @osagienelson24@gmail.com
