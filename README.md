@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Nelson Osagie - A Cloud Engineer with background in IT Support and Cloud Administrations.
-- 🌱 I am well familiar with the current Threat Intelligence landscape, SIEM Systems, Cloud Security Best Practices and Implementations on AWS and Azure Clouds, Python programming , Git,HTML, CSS, containers, Container Security and orchestration, Linux and Windows Systems, and IaC.
-- 💞️ I’m keen at protecting digital assets and inculcate security best practices into DevOps, as well as full implementation of the DevOps Methodology for seemless release.
+- 🌱 I am well familiar with the current Cloud Migration Techniques, Cloud Threat Intelligence landscape, Cloud Security Best Practices and Implementations on AWS and Azure Clouds, .Net / Python programming , Git,HTML, CSS, containers, Container Security and orchestration, Linux and Windows Systems, and IaC.
+- 💞️ I’m keen at cloud Operations and data security. Inculcate security best practices into DevOps, as well as full implementation of the DevOps Methodology for seemless release.
 - 📫 You can reach me Email @osagienelson24@gmail.com
