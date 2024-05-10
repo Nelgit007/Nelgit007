@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nelson Osagie</h1>
-<h3 align="center">An enthusiastic DevOps</h3>
+<h3 align="center">An enthusiastic DevOps Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nelson007&label=Profile%20views&color=0e75b6&style=flat" alt="nelson007" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@osagienelson24](https://medium.com/@osagienelson24)
 
-- 💬 Ask me about **CICD, Cloud, App, Deployments, Security, Automation, Config Management, SCM, Containers**
+- 💬 Ask me about **CICD, Cloud, Application Deployments, SRE, Security, Automation, Config. Management, SCM, Containers**
 
 - 📫 How to reach me **osagienelson24@gmail.com**
 
