@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nelson Osagie</h1>
-<h3 align="center">An enthusiastic DevOps /Site Reliability Engineer</h3>
+<h3 align="center">An enthusiastic DevOps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nelson007&label=Profile%20views&color=0e75b6&style=flat" alt="nelson007" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nelson007" alt="nelson007" /></a> </p>
-
-- 🌱 I’m currently learning **APM,**
+- 🌱 I’m currently learning **SRE Tools and Techniques**
 
 - 👯 I’m looking to collaborate on **DevOps / SRE**
 
 - 📝 I regularly write articles on [https://medium.com/@osagienelson24](https://medium.com/@osagienelson24)
 
-- 💬 Ask me about **CICD, Cloud, Security, Automation, Config Management, SCM, Containers**
+- 💬 Ask me about **CICD, Cloud, App, Deployments, Security, Automation, Config Management, SCM, Containers**
 
 - 📫 How to reach me **osagienelson24@gmail.com**
 
