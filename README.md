@@ -15,6 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [SQL Hands-On Guide — Service Ops](https://medium.com/@osagienelson24/sql-hands-on-guide-service-ops-7e54d8d29345?source=rss-4a502434a1ac------2)
+- [SQL Fundamentals — Service Ops](https://medium.com/@osagienelson24/sql-fundamentals-service-ops-8c5945770d66?source=rss-4a502434a1ac------2)
+- [Source Code Management &lpar;SCM&rpar;](https://medium.com/@osagienelson24/source-code-management-scm-e26df986fab0?source=rss-4a502434a1ac------2)
+- [Essential Scripts &amp; Linux Commands For DevOps Engineer](https://medium.com/@osagienelson24/essential-scripts-for-devops-engineer-86ddc27b5c1d?source=rss-4a502434a1ac------2)
+- [Monitoring Resource Usage on AWS Using Bash Scripting](https://medium.com/@osagienelson24/monitoring-resource-usage-on-aws-using-bash-scripting-4238f72b3f57?source=rss-4a502434a1ac------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
