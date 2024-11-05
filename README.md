@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nelson Osagie</h1>
-<h3 align="center">A DevOps Engineer, Passionate about secured and effective software delivery, and on improving system uptime</h3>
+<h3 align="center">A DevOps/Site Reliability Engineer, Passionate about secured and effective software delivery, and on improving system uptime</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nelson007&label=Profile%20views&color=0e75b6&style=flat" alt="nelson007" /> </p>
 
-- 🌱 I’m currently exploring **SRE Tools and Techniques**
+- 🌱 I love exploring **SRE Tools and Techniques**
 
 - 👯 I’m looking to collaborate on **DevOps / SRE**
 
